@@ -1,0 +1,72 @@
+[
+  {
+    "employee_id": 1,
+    "employee_name": "Clark",
+    "employee_address": "Vincent",
+    "email_id": "lucilebentley@junipoor.com",
+    "phone_no": "(989) 441-3790"
+  },
+  {
+    "employee_id": 11,
+    "employee_name": "Evelyn",
+    "employee_address": "Winfred",
+    "email_id": "careyknapp@ginkogene.com",
+    "phone_no": "(855) 566-2959"
+  },
+  {
+    "employee_id": 21,
+    "employee_name": "Keith",
+    "employee_address": "Rossmore",
+    "email_id": "liladoyle@zepitope.com",
+    "phone_no": "(837) 477-3137"
+  },
+  {
+    "employee_id": 31,
+    "employee_name": "Eugenia",
+    "employee_address": "Riverton",
+    "email_id": "boltonowens@ronelon.com",
+    "phone_no": "(969) 417-2252"
+  },
+  {
+    "employee_id": 41,
+    "employee_name": "Lilia",
+    "employee_address": "Glidden",
+    "email_id": "heathermorales@kinetica.com",
+    "phone_no": "(812) 427-2199"
+  },
+  {
+    "employee_id": 51,
+    "employee_name": "Hart",
+    "employee_address": "Goochland",
+    "email_id": "hubbardcampbell@webiotic.com",
+    "phone_no": "(892) 528-3703"
+  },
+  {
+    "employee_id": 61,
+    "employee_name": "Marissa",
+    "employee_address": "Chumuckla",
+    "email_id": "nicholshorton@gink.com",
+    "phone_no": "(938) 493-2465"
+  },
+  {
+    "employee_id": 71,
+    "employee_name": "Nina",
+    "employee_address": "Belmont",
+    "email_id": "combsdyer@acumentor.com",
+    "phone_no": "(961) 410-2749"
+  },
+  {
+    "employee_id": 81,
+    "employee_name": "Coffey",
+    "employee_address": "Sperryville",
+    "email_id": "kristinmccarty@homelux.com",
+    "phone_no": "(985) 444-2069"
+  },
+  {
+    "employee_id": 91,
+    "employee_name": "Jacklyn",
+    "employee_address": "Clarence",
+    "email_id": "emmabattle@isotronic.com",
+    "phone_no": "(830) 471-2203"
+  }
+]
